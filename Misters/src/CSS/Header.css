@@ -1,0 +1,64 @@
+@media all and (min-width: 480px) {
+.navlabels{
+    position: relative;
+    left: 24%;
+}
+
+.adjustform{
+    left: 432px;
+    width: 382px;
+}
+
+form{
+    position: relative;
+    top: 150px;
+}
+
+form .loginbtn{
+    position: relative;
+    left: -105px;
+    width: 95%;
+    margin-top: 3.5%;
+    margin-left: 35%;
+}
+
+form .para{
+    position: relative;
+    width: 95%;
+    margin-top: 3.5%;
+    margin-left: 14%;
+}
+
+form .para1{
+    position: relative;
+    width: 95%;
+    margin-top: 3.5%;
+}
+
+form .para2{
+    position: relative;
+    width: 95%;
+    margin-top: 3.5%;
+}
+
+form .loginlabel{
+    position: relative;
+    left: 42%;
+    font-size: 150%;
+}
+
+.shopbutton{
+    position: relative;
+    left: 50%;
+}
+
+.Icon1{
+    position: relative;
+    left: 49%;
+}
+
+.Icon2{
+    position: relative;
+    left: 50%;
+}
+}
